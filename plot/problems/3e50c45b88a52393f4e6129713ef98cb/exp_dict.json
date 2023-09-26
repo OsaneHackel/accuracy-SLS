@@ -1,0 +1,17 @@
+{
+    "acc_func": "softmax_accuracy",
+    "batch_size": 128,
+    "dataset": "cifar10",
+    "loss_func": "softmax_loss",
+    "max_epoch": 200,
+    "model": "resnet34",
+    "normalization": false,
+    "opt": {
+        "name": "Sls",
+        "version": "accuracy"
+    },
+    "runs": 0,
+    "searchBatch": "same",
+    "slope for weak accurracy": 1.0,
+    "version": "accuracy"
+}
