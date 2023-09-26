@@ -1,0 +1,4 @@
+,fw passes,fw per steps,bw passes,bw per steps
+sa-SLS,315471.0,4.0445,78000.0,1.0
+l-SLS,315042.0,4.039,78000.0,1.0
+Sgd Armijo,157305.25,2.0167339743589743,78000.0,1.0
